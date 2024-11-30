@@ -21,7 +21,7 @@ sudo apt install curl git -y
 * Clone the repository
 
 ```bash
-https://github.com/rsingh0706/Django-Application.git
+git clone https://github.com/rsingh0706/Django-Application.git
 ```
 ## Linux Essentials
 
